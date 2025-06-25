@@ -1,0 +1,399 @@
+[
+    {
+        "date": "2025-06-25T06:29:56.259Z"
+    },
+    [
+        {
+            "i": 0,
+            "title": "Pile of Stickers",
+            "description": "get a couple of our awesome stickers in the mail",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcsInB1ciI6ImJsb2JfaWQifX0=--c43efaa20563fa2f6e9e2b15bca2fdbc4197b7df/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/pile_of_stickers.png",
+            "cost": "25",
+            "hours": "3"
+        },
+        {
+            "i": 1,
+            "title": "TIS-100",
+            "description": "asm but now in a fun game",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODQwLCJwdXIiOiJibG9iX2lkIn19--bd312986c11cc5f624b518ac02e0c3b77a16665b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0i4_Kleki(1).png",
+            "cost": "32",
+            "hours": "3"
+        },
+        {
+            "i": 2,
+            "title": "64GB USB Drive",
+            "description": "great for storing cat picture",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--1a97fe9d21262424129d5fbe90b3128468c08857/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_10l_Kleki-removebg-preview(1).png",
+            "cost": "35",
+            "hours": "4"
+        },
+        {
+            "i": 3,
+            "title": "Hot Glue Gun",
+            "description": "clue!",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE1LCJwdXIiOiJibG9iX2lkIn19--ab5680327129b358019505dc14c09ed6e18db000/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0z5_Kleki(1).png",
+            "cost": "41",
+            "hours": "4"
+        },
+        {
+            "i": 4,
+            "title": "Domain grant",
+            "description": "RSVP your spot online! (this is a grant for 10$",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjUyLCJwdXIiOiJibG9iX2lkIn19--9ee004694756d78b18a782aa73c3bb6f4febfbac/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_16_0qu_Kleki(1).png",
+            "cost": "45",
+            "hours": "5"
+        },
+        {
+            "i": 5,
+            "title": "CH341A Programmer",
+            "description": "flash? serial? PARALLEL? you got it, buddy",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA0LCJwdXIiOiJibG9iX2lkIn19--0a9efe4591d011f60b83ba0dd6bd0750fc835e48/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/ch341.png",
+            "cost": "47",
+            "hours": "5"
+        },
+        {
+            "i": 6,
+            "title": "Orpheus Pico! (preorder)",
+            "description": "solder it yourself",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--7c2b27879fd208a3e6b1d1b9d6cbf2cce80cee26/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0za_Kleki(1).png",
+            "cost": "50",
+            "hours": "5"
+        },
+        {
+            "i": 7,
+            "title": "128GB USB Drive",
+            "description": "great for storing more cat picture",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--e08ec93b92124562093666af9747e2d27233b5e2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(9)(1).png",
+            "cost": "50",
+            "hours": "5"
+        },
+        {
+            "i": 8,
+            "title": "Logic Analyzer",
+            "description": "omgwtfbbq! fx2lafw ftw!",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--583d93d2c0f697c624006114c457a0173e3d9493/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0zp_Kleki(1).png",
+            "cost": "50",
+            "hours": "5"
+        },
+        {
+            "i": 9,
+            "title": "Cat Printer",
+            "description": "The printer does not go meo",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1LCJwdXIiOiJibG9iX2lkIn19--0ecbd280a1a5a76c26191f6ac107d2e551c399cb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0z9_Kleki(1).png",
+            "cost": "55",
+            "hours": "6"
+        },
+        {
+            "i": 10,
+            "title": "Pico-8 License",
+            "description": "get the worlds best fantasy console now",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODQsInB1ciI6ImJsb2JfaWQifX0=--19d35b0a75a43da8864c4439318efa7b896bb3bf/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0sk_Kleki.png",
+            "cost": "60",
+            "hours": "6"
+        },
+        {
+            "i": 11,
+            "title": "Allen Wrench ",
+            "description": "They see me turnin, they hatin..",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5LCJwdXIiOiJibG9iX2lkIn19--cde005abbc6c04f722e523aa4445ab1afb408aeb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(1).png",
+            "cost": "67",
+            "hours": "7"
+        },
+        {
+            "i": 12,
+            "title": "Digital Calipers",
+            "description": "plastic, but fantastic",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--b61d0b314a368d765ca8f83f9cc6c7d5c10e17dc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0zd_Kleki(1).png",
+            "cost": "77",
+            "hours": "8"
+        },
+        {
+            "i": 13,
+            "title": "Voxatron License",
+            "description": "voxel your voxels",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODYsInB1ciI6ImJsb2JfaWQifX0=--15c13f57beb81660a9e8085438e195281ba749ca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0so_Kleki.png",
+            "cost": "80",
+            "hours": "8"
+        },
+        {
+            "i": 14,
+            "title": "256GB USB Drive",
+            "description": "great for storing even more cat picture",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI5NywicHVyIjoiYmxvYl9pZCJ9fQ==--59ffc4ea8faf06c10773318062acd389cc4350d8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(8)(1).png",
+            "cost": "100",
+            "hours": "10"
+        },
+        {
+            "i": 15,
+            "title": "sketch from msw",
+            "description": "(its gonna be bad, but its gonna be personally signed)",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--937db7bb5d3227260b1d3a9594c6837f62c25f07/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_18_0ll_Kleki.png",
+            "cost": "100",
+            "hours": "10"
+        },
+        {
+            "i": 16,
+            "title": "Raspberry Pi Zero 2 W",
+            "description": "computing on a budget",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--3a24804392b79bb38b456e3af78e8e769b0768a7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0z6_Kleki(1).png",
+            "cost": "100",
+            "hours": "10"
+        },
+        {
+            "i": 17,
+            "title": "256GB microSD card + adapter",
+            "description": "this thing can fit so many cat picture",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--5b87d07a3d06f62a84614015df90f7bb70a5da3b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0yl_Kleki(1).png",
+            "cost": "110",
+            "hours": "11"
+        },
+        {
+            "i": 18,
+            "title": "Smolhaj",
+            "description": "Friend shark",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjIsInB1ciI6ImJsb2JfaWQifX0=--00ba1348ce024a234f53f2e12c6b18d70e11dd6a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/blahaj.png",
+            "cost": "111",
+            "hours": "11"
+        },
+        {
+            "i": 19,
+            "title": "USB C Cable + Wall Adapter",
+            "description": "charge up your device, send cat pictures, et",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--833a2f6bc91fce29de52042025e5227b9f75f096/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(11).png",
+            "cost": "120",
+            "hours": "12"
+        },
+        {
+            "i": 20,
+            "title": "Qiyi XMD XT3 speedcube",
+            "description": "this is nora's favorite cube, and we are now selling i",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--7324b6b7c9162c8207aa3914079c1c724469bb37/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0zk_Kleki(1).png",
+            "cost": "132",
+            "hours": "13"
+        },
+        {
+            "i": 21,
+            "title": "Dupont Crimping Tool Kit",
+            "description": "hawk tua crimp that than",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--d89d7148515c8ed4781fcd0360eb77fff2fb874f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(12).png",
+            "cost": "137",
+            "hours": "14"
+        },
+        {
+            "i": 22,
+            "title": "Pinecil",
+            "description": "64 whole pines",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQsInB1ciI6ImJsb2JfaWQifX0=--f454ae6f9c32179f3cc10e611da66dc06f73d71e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/25835_1_kwadrat.png",
+            "cost": "144",
+            "hours": "14"
+        },
+        {
+            "i": 23,
+            "title": "Factorio",
+            "description": "ah where did the past 5 hours go",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDM2LCJwdXIiOiJibG9iX2lkIn19--fdd3f1a7b554207b56af742273bb2e262236f044/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_16_11i_Kleki(1)(1).png",
+            "cost": "175",
+            "hours": "18"
+        },
+        {
+            "i": 24,
+            "title": "Lexaloffle Games bundle",
+            "description": "Get Pico-8, Picotron, and Voxatron all in one cute bundle",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI0NywicHVyIjoiYmxvYl9pZCJ9fQ==--7409c748031d1a9bfee961b878d850e36162f8b1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0yx_Kleki(1).png",
+            "cost": "175",
+            "hours": "18"
+        },
+        {
+            "i": 25,
+            "title": "Brother Label Maker",
+            "description": "labels",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE5LCJwdXIiOiJibG9iX2lkIn19--9500904f6f2cef63d58fe3ae2331da5e3b2bd97c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0z6_Kleki(2)(1).png",
+            "cost": "180",
+            "hours": "18"
+        },
+        {
+            "i": 26,
+            "title": "Proxmark 3 Easy",
+            "description": "what a nice rfid cloning device, hopefully this is not used for anything bad..",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE3LCJwdXIiOiJibG9iX2lkIn19--adff2b85256fec9d8f167085562e84aaeefccc10/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0z6_Kleki(1).png",
+            "cost": "225",
+            "hours": "23"
+        },
+        {
+            "i": 27,
+            "title": "Yubikey USB-A",
+            "description": "next generation security today",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI5MywicHVyIjoiYmxvYl9pZCJ9fQ==--eed829f4f416a3ab5bc5ebead4b64128bbd37852/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_109_Kleki(1).png",
+            "cost": "300",
+            "hours": "30"
+        },
+        {
+            "i": 28,
+            "title": "Waveshare 7.5inch E-Ink Display",
+            "description": "(comes with controller pcb, not a pi) refresh rates starting at 0.2hz",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--3e10d7f2dfa5e631970e557ccb73dd817f39c6ea/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0z1_Kleki(1).png",
+            "cost": "302",
+            "hours": "30"
+        },
+        {
+            "i": 29,
+            "title": "Baofeng UV-5R (2 pack)",
+            "description": "ham radios are NOT made out of ham :",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--5f9965d47307d6a5f52b0d9a107bc87141645cf1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(6)(1).png",
+            "cost": "323",
+            "hours": "32"
+        },
+        {
+            "i": 30,
+            "title": "Yubikey USB-C",
+            "description": "sms 2fa?? not this account",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--7e8b2a67294e715b6a4b570813c858a50b047c58/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0zr_Kleki(1).png",
+            "cost": "330",
+            "hours": "33"
+        },
+        {
+            "i": 31,
+            "title": "min(amame) Parts Kit",
+            "description": "DIY Headphones, build it yourself",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTgyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--17e9ad7bda00c9b46a2160d14260188277a0b7e6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_18_0mp_Kleki(1).png",
+            "cost": "335",
+            "hours": "34"
+        },
+        {
+            "i": 32,
+            "title": "Seagate 2TB external HDD",
+            "description": "great for storing all of the cat pictures you could ever nee",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--a16fad8ad63907bd22e3438a6a384e2d4030ae41/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_10c_Kleki(1).png",
+            "cost": "467",
+            "hours": "47"
+        },
+        {
+            "i": 33,
+            "title": "Logitech MX Master 3S",
+            "description": "wireless, quiet, and full of buttons",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--c517ab404dfc5a5f21f237485b5ef76e3cc560df/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(4)(1).png",
+            "cost": "570",
+            "hours": "57"
+        },
+        {
+            "i": 34,
+            "title": "Raspberry Pi 5",
+            "description": "do not eat this, it does not taste like raspberrie",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e73e29fe5932f2f6135832b6f3d58029eb67edcf/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0yt_Kleki(1).png",
+            "cost": "607",
+            "hours": "61"
+        },
+        {
+            "i": 35,
+            "title": "head(amame) Parts Kit ",
+            "description": "DIY overear headphones, build it yourself",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTgzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--7dbb576a90ee72c4863878fe771add7704a1f05c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(1).png",
+            "cost": "650",
+            "hours": "65"
+        },
+        {
+            "i": 36,
+            "title": "Glasgow Interface Explorer",
+            "description": "thing",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIzLCJwdXIiOiJibG9iX2lkIn19--278736c6f9f05fe0da3c2215884b1ed050414f95/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0z8_Kleki(1).png",
+            "cost": "712",
+            "hours": "71"
+        },
+        {
+            "i": 37,
+            "title": "Logitech G Pro X Superlight",
+            "description": "super high quality mouse used by your favorite gamer",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ca492b1cdad11a9a85bec881591da43d659c40bb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(5)(1).png",
+            "cost": "750",
+            "hours": "75"
+        },
+        {
+            "i": 38,
+            "title": "XPPen Deco Pro MW",
+            "description": "perfect for artists! nice and big, make it your canvas",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzcwMywicHVyIjoiYmxvYl9pZCJ9fQ==--00760cef9d9435013ad6cbbe0e28f5c36c512c58/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_24_0l0_Kleki-removebg-preview(1).png",
+            "cost": "770",
+            "hours": "77"
+        },
+        {
+            "i": 39,
+            "title": "Flipper Zero",
+            "description": "don't do anything we wouldn't do",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTYsInB1ciI6ImJsb2JfaWQifX0=--355255c6559988d0ce586e089449e3280bfd4e29/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0th_Kleki.png",
+            "cost": "950",
+            "hours": "95"
+        },
+        {
+            "i": 40,
+            "title": "Bambu A1 mini Printer",
+            "description": "print your wildest dreams! or that one squid with the roc",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI0MywicHVyIjoiYmxvYl9pZCJ9fQ==--f136ab48ddb5e95bbe0bcebb072538823ab3db7c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_0yp_Kleki(1).png",
+            "cost": "1125",
+            "hours": "113"
+        },
+        {
+            "i": 41,
+            "title": "Cricut Explore 3",
+            "description": "it cuts, better than me",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTQsInB1ciI6ImJsb2JfaWQifX0=--10fd5992b34c0141b6924231e8ddd21dfac58c69/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0td_Kleki.png",
+            "cost": "1125",
+            "hours": "113"
+        },
+        {
+            "i": 42,
+            "title": "Playdate",
+            "description": "like the rabit r1 but actually fu",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--b0ed0cea0ae08def158a81c2ad01c08018ad0062/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/image-removebg-preview(13).png",
+            "cost": "1265",
+            "hours": "127"
+        },
+        {
+            "i": 43,
+            "title": "100MHZ Oscilloscope",
+            "description": "Siglent SDS1102CML+",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--02d62e53c70047d002bb362949d97ca3acef316a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_17_102_Kleki(1).png",
+            "cost": "1507",
+            "hours": "151"
+        },
+        {
+            "i": 44,
+            "title": "$500 in Amp credit",
+            "description": "use the agent a good chunk of this platform was made with! ",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUzLCJwdXIiOiJibG9iX2lkIn19--6bedffa7d05e68bc89259aab22a4fe92e76547a3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_16_0wu_Kleki(1).png",
+            "cost": "1750",
+            "hours": "175"
+        },
+        {
+            "i": 45,
+            "title": "iPad + Apple Pencil",
+            "description": "the dream team!",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjM5LCJwdXIiOiJibG9iX2lkIn19--00b9312b1ea065d925f83ad3b53d6684eff483f4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_16_0qh_Kleki(1).png",
+            "cost": "3400",
+            "hours": "340"
+        },
+        {
+            "i": 46,
+            "title": "M4 Mac Mini",
+            "description": "tiny computer go supa fast!!!",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjM3LCJwdXIiOiJibG9iX2lkIn19--bc2fa2433f9429b9acf2ce6b02c8bda77764831a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_16_0qf_Kleki(1).png",
+            "cost": "4050",
+            "hours": "405"
+        },
+        {
+            "i": 47,
+            "title": " Framework Laptop 12 ",
+            "description": "DIY Edition, i3-1315U, 16GB Ram, 500GB Storage + 4 assorted expansion cards! ",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTEzLCJwdXIiOiJibG9iX2lkIn19--4b6964013a58e4eb9b129ef870b53dfc43c589ca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_15_0z4_Kleki(1).png",
+            "cost": "4499",
+            "hours": "450"
+        },
+        {
+            "i": 48,
+            "title": "13-inch M4 MacBook Air",
+            "description": "16GB of memory and 256GB SSD, all in a lightweight form factor!",
+            "img": "https://summer.hackclub.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU3LCJwdXIiOiJibG9iX2lkIn19--7635fc44dcf5e0697741c52c560e5310aa256b4a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYsMjU2XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--69edd5fc8f56201b3f04f7560743d8fad0d8d976/2025_06_16_0x0_Kleki.png",
+            "cost": "5512",
+            "hours": "551"
+        }
+    ]
+]
