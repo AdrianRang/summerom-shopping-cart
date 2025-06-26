@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=National+Park:wght@200..800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  color: rgb(55, 65, 81)
+}
+
+html,
+body,
+#root {
+  height: 100%;
+
+}
+
+button {
+  width: 19px;
+  user-select: none;
+}
+
+.national-park-font {
+  font-family: "National Park", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.item {
+  display: flex;
+  background-color: white;
+  width: auto;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.shell {
+  width: 15px;
+}
+
+.name {
+  font-weight: 600;
+  font-size: small;
+}
+
+.description {
+  font-size: x-small;
+  font-weight: 400;
+}
+
+.time {
+  font-size: small;
+  font-weight: 100;
+}
+
+.price {
+  font-weight: 700;
+}
+
+.count {
+  width: 1ch;
+}
+
+.item-img {
+  height: 40px;
+}
+
+#v-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 10px;
+}
+
+#bg {
+    background-image: url("https://summer.hackclub.com/assets/bg-cf05d959.svg");
+    background-size: cover;
+    background-position: right bottom; 
+    position: fixed;
+    z-index: -1;
+    inset: 0;
+}
