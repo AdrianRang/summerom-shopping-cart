@@ -15,6 +15,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <div id="bg"></div>
+      <div style={{width:'100%', backgroundColor:'red'}}><center><span style={{color:'white'}}>This is not the official shop, you cannot buy stuff from here. To buy stuff go <a href="https://summer.hackclub.com/shop" style={{color:'white'}}>here</a></span></center></div>
       <App/>
     </BrowserRouter>
   </React.StrictMode>
