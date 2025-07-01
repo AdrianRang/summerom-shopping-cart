@@ -69,6 +69,14 @@ button {
   text-decoration: line-through;
 }
 
+.single > span {
+  color: yellow;
+}
+
+.many > span {
+  color: red;
+}
+
 .shell {
   width: 15px;
 }
@@ -111,6 +119,9 @@ button {
 
 #user-data {
   background-color: rgba(240, 248, 255, 0.525);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   height: min-content;
   width: max-content;
   padding: 10px;
