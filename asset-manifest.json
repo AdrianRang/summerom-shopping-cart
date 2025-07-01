@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/summer-shopping-cart/static/css/main.8d6fd0da.css",
-    "main.js": "/summer-shopping-cart/static/js/main.05f7ec83.js",
-    "index.html": "/summer-shopping-cart/index.html",
-    "main.8d6fd0da.css.map": "/summer-shopping-cart/static/css/main.8d6fd0da.css.map",
-    "main.05f7ec83.js.map": "/summer-shopping-cart/static/js/main.05f7ec83.js.map"
+    "main.css": "/summerom-shopping-cart/static/css/main.8d6fd0da.css",
+    "main.js": "/summerom-shopping-cart/static/js/main.05f7ec83.js",
+    "index.html": "/summerom-shopping-cart/index.html",
+    "main.8d6fd0da.css.map": "/summerom-shopping-cart/static/css/main.8d6fd0da.css.map",
+    "main.05f7ec83.js.map": "/summerom-shopping-cart/static/js/main.05f7ec83.js.map"
   },
   "entrypoints": [
     "static/css/main.8d6fd0da.css",
