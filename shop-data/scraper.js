@@ -37,7 +37,7 @@ for(let region in regions) {
 
         data.push({ region: regions[region], data: regionData })
         const json = JSON.stringify(data);
-        fs.writeFile("shop-data/shop.json", json, (err) => {
+        fs.writeFile("shop.json", json, (err) => {
             console.log('error writing file: ' + err)
         })
     })
