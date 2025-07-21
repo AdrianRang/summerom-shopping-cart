@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
@@ -16,7 +16,9 @@ root.render(
     <BrowserRouter>
       <div id="bg"></div>
       <div style={{width:'100%', backgroundColor:'red'}}><center><span style={{color:'white'}}>This is not the official shop, you cannot buy stuff from here. To buy stuff go <a href="https://summer.hackclub.com/shop" style={{color:'white'}}>here</a></span></center></div>
-      <App/>
+      <Routes>
+        <Route index element={<App/>}/>
+      </Routes>
     </BrowserRouter>
   </React.StrictMode>
 );

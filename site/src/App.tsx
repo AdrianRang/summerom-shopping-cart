@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-
+ 
 function Item({ data, onChange, count, setCount }: Readonly<{ data: any, onChange: any, count: number, setCount: any }>) {
     return (
         data && <div className="item">
@@ -42,6 +42,7 @@ function TicketItem({name, price, count, over, destroy}: Readonly<{name: string,
 
 export default function App() {
     const [shop, setShop] = useState<any[]>([]);
+    const [badges, setBadges] = useState<any[]>([]);
     const [selected, setSelected] = useState<any[]>([]);
     const [count, setCount] = useState<number[]>([]);
     const [userShells, setUsShells] = useState(0);
@@ -55,13 +56,18 @@ export default function App() {
     }, []);
     
     function loadShop(region: string) {
-        fetch("./shop.json")
-            .then((res) => res.json())
-            .then((json) => {
-                const shpoData = json.filter((item:any) => item.region === region)[0].data[0];
-                setShop(shpoData || {})
-                console.log(shop);
-            });
+        fetch(process.env.PUBLIC_URL + "/shop.json")
+            .then((res) => res.json()
+            .then((json: any) => {handleShop(json)}));
+    }
+
+    function handleShop(json: any) {
+        console.log(json.normal_items.filter((item:any) => item.region === region)[0].data);
+        const shpoData = json.normal_items.filter((item:any) => item.region === region)[0].data;
+        setShop(shpoData || {})
+        console.log(shop);
+
+        setBadges(json.badge_items || {})
     }
 
     function handleChange(name: string, cost: number, count: number, i: number) {
@@ -124,10 +130,27 @@ export default function App() {
                 justifyContent: "center",
             }}>
                 <div style={{display: "flex", flexDirection: "column",backgroundColor: "#00000030", padding: 10, margin: 10, gap:"10px", width: "100%", borderRadius: "5px"}}>
+                <h3>Shop Items</h3>
                     {
                         shop.map((item, i) => {
                             return (
-                                <Item data={item} onChange={(a:any,b:any,c:any) => handleChange(a,b,c,i)} count={count[i] || 0}
+                                <Item key={i} data={item} onChange={(a:any,b:any,c:any) => handleChange(a,b,c,i)} count={count[i] || 0}
+                                    setCount={(num: number) => {
+                                        setCount(prev => {
+                                            const newCounts = [...prev];
+                                            newCounts[i] = num;
+                                            return newCounts;
+                                        });
+                                    }}
+                                />
+                            );
+                        })
+                    }
+                <h3>Badges</h3>
+                    {
+                        badges.map((item, i) => {
+                            return (
+                                <Item key={i} data={item} onChange={(a:any,b:any,c:any) => handleChange(a,b,c,i)} count={count[i] || 0}
                                     setCount={(num: number) => {
                                         setCount(prev => {
                                             const newCounts = [...prev];

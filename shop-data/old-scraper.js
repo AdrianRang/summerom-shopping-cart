@@ -23,7 +23,7 @@ for(let region in regions) {
     
     axios.get(url).then((response) => {
         const $ = cheerio.load(response.data)
-        
+
         regionData.push($('.card-content').slice(4).map((i, element) => {
             return {
                 i: i,
